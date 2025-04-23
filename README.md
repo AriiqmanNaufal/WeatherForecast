@@ -3,15 +3,12 @@ A simple Spring Boot web application that allows users to check current weather 
 
 
 🚀 Features
-🌍 Search weather by city name
 
-🌡️ View temperature (°C) and weather description
-
-🎨 Clean UI with Bootstrap and background image
-
-📡 Integrated with OpenWeatherMap API
-
-💡 Built with Spring Boot and Thymeleaf
+- 🌍 Search weather by city name
+- 🌡️ View temperature (°C) and weather description
+- 🎨 Clean UI with Bootstrap and background image
+- 📡 Integrated with OpenWeatherMap API
+- 💡 Built with Spring Boot and Thymeleaf
 
 
 
